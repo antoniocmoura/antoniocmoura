@@ -6,10 +6,12 @@ Olá 👋 Meu nome é Antonio Carlos de Moura
 
 <div>
   <a href="https://github.com/antoniocmoura">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antoniocmoura&show_icons=true&theme=default &include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniocmoura&layout=compact&langs_count=7&theme=default "/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antoniocmoura&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniocmoura&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
+  <br/>
+  
 <p align="left">                
                                 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
