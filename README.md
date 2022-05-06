@@ -1,5 +1,5 @@
-Olá 👋 Meu nome é Antonio Carlos de Moura
-==========================================
+Olá 👋 Meu nome é Antonio
+==========================
 
 * Bacharel em Informática
 * Analista e Desenvolvedor de Sistemas
