@@ -2,8 +2,7 @@ Olá 👋 Meu nome é Antonio Carlos de Moura
 ==========================================
 
 * Bacharel em Informática 
-* Analista de Desenvolvedor de Sistemas
-* ✉️ Contato: [antoniocmoura@gmail.com](mailto:antoniocmoura@gmail.com)
+* Analista e Desenvolvedor de Sistemas
 
 <div>
   <a href="https://github.com/antoniocmoura">
