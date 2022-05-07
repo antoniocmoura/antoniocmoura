@@ -1,7 +1,7 @@
 Olá 👋 Meu nome é Antonio
 ==========================
 
-* Bacharel em Informática
+* Bacharel em Ciência da Computação
 * Analista e Desenvolvedor de Sistemas
 
 <div>
